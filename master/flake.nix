@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-tokarax-master.flake = false;
+  inputs.src-tokarax-master.ref   = "refs/heads/master";
   inputs.src-tokarax-master.owner = "thisago";
-  inputs.src-tokarax-master.ref   = "master";
   inputs.src-tokarax-master.repo  = "tokarax";
   inputs.src-tokarax-master.type  = "github";
   
