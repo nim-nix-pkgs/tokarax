@@ -11,7 +11,6 @@
   inputs.src-tokarax-master.ref   = "refs/heads/master";
   inputs.src-tokarax-master.owner = "thisago";
   inputs.src-tokarax-master.repo  = "tokarax";
-  inputs.src-tokarax-master.dir   = "";
   inputs.src-tokarax-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
