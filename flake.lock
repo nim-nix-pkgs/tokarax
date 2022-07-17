@@ -116,11 +116,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658015653,
-        "narHash": "sha256-gZjMFPHYgBEasKsUnSkG508wNGRF4MIWYIZO7H8d2P0=",
+        "lastModified": 1658018884,
+        "narHash": "sha256-MLD22iLpDzSVFY9k8abDe1b0h4rL7zdl+ecxw3jv5+0=",
         "owner": "nim-nix-pkgs",
         "repo": "tokarax",
-        "rev": "5a32cac87fe9b08211aba666ab1f113379b2206d",
+        "rev": "7f4753a05b423b5d65a0eae82541c0a9305f1239",
         "type": "github"
       },
       "original": {
